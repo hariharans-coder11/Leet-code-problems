@@ -1,0 +1,19 @@
+import java.util.HashSet;
+import java.util.Set;
+
+class Solution {
+    public int findFinalValue(int[] nums, int original) {
+        // Step 1: Insert all numbers into a HashSet for O(1) lookup
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+
+        // Step 2: Keep doubling 'original' while it exists in the set
+        while (set.contains(original)) {
+            original *= 2;
+        }
+
+        return original;
+    }
+}
