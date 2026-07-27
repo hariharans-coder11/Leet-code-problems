@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
+| [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
