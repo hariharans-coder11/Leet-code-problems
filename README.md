@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0709-to-lower-case) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1117-building-h2o](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1117-building-h2o) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
