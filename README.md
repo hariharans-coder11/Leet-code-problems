@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
