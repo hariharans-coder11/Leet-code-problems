@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
