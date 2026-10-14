@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0867-transpose-matrix) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0867-transpose-matrix) |
 ## Concurrency
 |  |
