@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
