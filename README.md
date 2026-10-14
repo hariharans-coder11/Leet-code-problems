@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0075-sort-colors) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
