@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -266,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
