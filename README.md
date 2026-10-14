@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
