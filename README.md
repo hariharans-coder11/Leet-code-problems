@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
