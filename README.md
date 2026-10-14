@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -180,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0070-climbing-stairs) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
