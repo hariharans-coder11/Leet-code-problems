@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -287,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
