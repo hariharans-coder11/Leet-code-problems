@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0867-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 ## String
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+| [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -274,8 +277,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
