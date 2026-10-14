@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -219,8 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
