@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0867-transpose-matrix) |
+| [1049-last-stone-weight-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1514-path-with-maximum-probability) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1049-last-stone-weight-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1049-last-stone-weight-ii) |
 ## Quicksort
 |  |
 | ------- |
