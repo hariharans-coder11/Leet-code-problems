@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0785-is-graph-bipartite) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/hariharans-coder11/Leet-code-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
